@@ -4,7 +4,7 @@
     "@protected": true,
     "schema": "https://schema.org/",
     "CertificateSchema": {
-      "@id": "https://arati-tekdi.github.io/tracking-microservice/CertificateSchema.json#CertificateSchema"
+      "@id": "https://tekdi.github.io/aspire-certificate-microservice/CertificateSchema.json#CertificateSchema"
     },
     "firstName": "schema:Text",
     "middleName": "schema:Text",
